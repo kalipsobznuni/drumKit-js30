@@ -1,6 +1,6 @@
 html {
   font-size: 10px;
-  background: url(http://i.imgur.com/b9r5sEL.jpg) bottom center;
+  background: url(http://cdn.wallpapersafari.com/87/57/E4MYiw.jpg) bottom center;
   background-size: cover;
 }
 body,html {
@@ -27,14 +27,14 @@ body,html {
   width: 10rem;
   text-align: center;
   color: white;
-  background: rgba(0,0,0,0.4);
+  background: rgba(0,0,0,0.9);
   text-shadow: 0 0 .5rem black;
 }
 
 .playing {
-  transform: scale(1.1);
-  border-color: #ffc600;
-  box-shadow: 0 0 1rem #ffc600;
+  transform: scale(1.2);
+  border-color: #2646ea;
+  box-shadow: 0 0 1rem #2646ea;
 }
 
 kbd {
@@ -46,5 +46,6 @@ kbd {
   font-size: 1.2rem;
   text-transform: uppercase;
   letter-spacing: .1rem;
-  color: #ffc600;
+  color: #53eafd;
+  font-weight: bolder;
 }
